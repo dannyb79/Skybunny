@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="isometric" renderorder="right-down" width="10" height="10" tilewidth="64" tileheight="32" nextobjectid="1">
+ <properties>
+  <property name="user_obstacles" value="0"/>
+ </properties>
+ <tileset firstgid="1" name="tiles_64x64" tilewidth="64" tileheight="64">
+  <image source="tiles_64x64.png" width="640" height="640"/>
+ </tileset>
+ <tileset firstgid="101" name="tiles_64x128" tilewidth="64" tileheight="128">
+  <image source="tiles_64x128.png" width="768" height="128"/>
+ </tileset>
+ <layer name="basement" width="10" height="10">
+  <data encoding="base64" compression="zlib">
+   eJxjYBh8IHaQqYvFgmkFAM5DA0Y=
+  </data>
+ </layer>
+ <layer name="walkable" width="10" height="10">
+  <data encoding="base64" compression="zlib">
+   eJxjYKANCAPiUDQaG0BXEzrIzKM3AABQuQhb
+  </data>
+ </layer>
+ <layer name="objects" width="10" height="10">
+  <data encoding="base64" compression="zlib">
+   eJxjYKAdYKah2cTYaQLE7gPgBkoAAFzMAII=
+  </data>
+ </layer>
+</map>

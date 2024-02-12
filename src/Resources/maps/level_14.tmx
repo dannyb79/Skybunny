@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="isometric" renderorder="right-down" width="14" height="14" tilewidth="64" tileheight="32" nextobjectid="1">
+ <properties>
+  <property name="background" value="1"/>
+  <property name="obstacle_type" value="1"/>
+  <property name="user_obstacles" value="10"/>
+ </properties>
+ <tileset firstgid="1" name="tiles_64x64" tilewidth="64" tileheight="64">
+  <image source="tiles_64x64.png" width="640" height="640"/>
+ </tileset>
+ <tileset firstgid="101" name="tiles_64x128" tilewidth="64" tileheight="128">
+  <image source="tiles_64x128.png" width="576" height="128"/>
+ </tileset>
+ <tileset firstgid="110" name="tiles_128x128" tilewidth="128" tileheight="128">
+  <image source="tiles_128x128.png" width="128" height="128"/>
+ </tileset>
+ <layer name="basement" width="14" height="14">
+  <data encoding="base64" compression="zlib">
+   eJxjYKAcxJApn0hAHy55Uu1LRKPR1eKTx6UHnzw2N6CrJSVMiLEPWW0iGk1IL73iD5ubSJGnBwAAJcQNSw==
+  </data>
+ </layer>
+ <layer name="walkable" width="14" height="14">
+  <data encoding="base64" compression="zlib">
+   eJwLZ2BgCALicAbsIByHfBCSHDaASx6XeaTYR4jG5hZ85uPyA7oadPNx+YEc+8j1HzXCE5cfqGnfUAEAmL8YHA==
+  </data>
+ </layer>
+ <layer name="walls" width="14" height="14">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFIxFko9GjAAIA6cgA1w==
+  </data>
+ </layer>
+ <layer name="objects" width="14" height="14">
+  <data encoding="base64" compression="zlib">
+   eJxjYCAf8BOQ56PAbFzAgQw93GTKI4sLQ2khEvWRI08v4E6EGh4yzTYhU99AAwArXgFM
+  </data>
+ </layer>
+</map>
