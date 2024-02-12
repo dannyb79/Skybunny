@@ -24,9 +24,9 @@ https://www.youtube.com/watch?v=h8v07fG-ZX4
 Some screenshot
 
 ![screenshot1](https://github.com/dannyb79/Skybunny/blob/main/s1.jpg)
-![screenshot2](https://github.com/dannyb79/skybunny/s2.jpg)
-![screenshot3](https://github.com/dannyb79/skybunny/s3.jpg)
-![screenshot4](https://github.com/dannyb79/skybunny/s4.jpg)
+![screenshot2](https://github.com/dannyb79/skybunny/blob/main/s2.jpg)
+![screenshot3](https://github.com/dannyb79/skybunny/blob/main/s3.jpg)
+![screenshot4](https://github.com/dannyb79/skybunny/blob/main/s4.jpg)
 
 ## Credit & License 
 
